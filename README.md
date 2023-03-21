@@ -1,8 +1,12 @@
 ## Background
 
-An unofficial implementation of of the paper ["EventNet: Asynchronous Recursive Event Processing"](https://arxiv.org/pdf/1812.07045.pdf)
+An unofficial implementation of of the paper ["EventNet: Asynchronous Recursive Event Processing"](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf)
 
 It's a simple verison of EventNet Without Temporal Rotation
+
+## Dataset preparation
+download the shapes_rotation from dataset [ETHTED+](https://rpg.ifi.uzh.ch/datasets/davis/shapes_rotation.zip)
+and the The supplemental annotation dataset from the [paper supplementary](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Sekikawa_EventNet_Asynchronous_Recursive_CVPR_2019_supplemental.zip)
 ## Useage
 
 * python main.py
